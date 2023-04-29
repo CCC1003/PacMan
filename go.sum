@@ -1,0 +1,8 @@
+github.com/Andrew-M-C/go.emoji v1.0.1 h1:OpTpSPqJIg+OXxeDOxM9fYDvKHOuS1GTLVV9tuPGSAs=
+github.com/Andrew-M-C/go.emoji v1.0.1/go.mod h1:XKiW1Wc2U6EhAbS7SSvolGTr7sBRRD2GYjGK/huPXCw=
+github.com/danicat/simpleansi v0.0.0-20200320095209-8cd0472eec8b h1:FzYaOg7IzCXIb6dXTpbL/cwchsRL+tuxdJs+Lq19f7Y=
+github.com/danicat/simpleansi v0.0.0-20200320095209-8cd0472eec8b/go.mod h1:HbVZkvczHfwZ2eR1JmwGahoaW1Bcda6zrK+bw/JqpYU=
+github.com/eiannone/keyboard v0.0.0-20220611211555-0d226195f203 h1:XBBHcIb256gUJtLmY22n99HaZTz+r2Z51xUPi01m3wg=
+github.com/eiannone/keyboard v0.0.0-20220611211555-0d226195f203/go.mod h1:E1jcSv8FaEny+OP/5k9UxZVw9YFWGj7eI4KR/iOBqCg=
+golang.org/x/sys v0.7.0 h1:3jlCCIQZPdOYu1h8BkNvLz8Kgwtae2cagcG/VamtZRU=
+golang.org/x/sys v0.7.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=

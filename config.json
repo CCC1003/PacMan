@@ -1,0 +1,12 @@
+{
+  "player": "⭕ ",
+  "ghost_right" : "✅ ",
+  "ghost": "❎ ",
+  "wall": "➕ ",
+  "dot": "⚪ ",
+  "pill": "➰ ",
+  "death": "❌ ",
+  "space": "  ",
+  "use_emoji": true,
+  "pill_duration_secs" : 10
+}
