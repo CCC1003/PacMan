@@ -3,7 +3,7 @@ windows系统下go语言实现一个终端运行吃豆人小游戏
 
 系统：windows10
 
-语言：Go
+语言：golang
 
 编译器：GoLand
 
